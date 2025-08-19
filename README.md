@@ -1,4 +1,4 @@
-# 将解压出来的node目录添加到系统环境变量
+# 将解压出来的node目录的路径添加到系统环境变量
 <img width="493" height="605" alt="image" src="https://github.com/user-attachments/assets/861ad50a-e8c7-442e-b690-197bb3a15bdb" />
 
 <img width="632" height="666" alt="image" src="https://github.com/user-attachments/assets/cb582eef-da59-4707-9597-7c8ebaf5f2ae" />
