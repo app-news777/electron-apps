@@ -96,7 +96,7 @@ class PageScaler {
 // 广告拦截器类
 // ============================================================================
 class AdBlocker {
-  constructor(selectors = []) {
+  constructor(selectors = ['css选择器'，'css选择器']) {//可以自己选择要拦截的广告元素
     this.selectors = new Set(selectors);
     this.frameId = null;
     this.observer = null;
