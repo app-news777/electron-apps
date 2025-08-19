@@ -1,0 +1,27 @@
+# 将解压出来的node目录添加到系统环境变量
+<img width="493" height="605" alt="image" src="https://github.com/user-attachments/assets/861ad50a-e8c7-442e-b690-197bb3a15bdb" />
+
+<img width="632" height="666" alt="image" src="https://github.com/user-attachments/assets/cb582eef-da59-4707-9597-7c8ebaf5f2ae" />
+
+<img width="541" height="570" alt="image" src="https://github.com/user-attachments/assets/ed81fd1d-7a2a-40c3-a6fd-2434ac8672d9" />
+
+<img width="875" height="600" alt="image" src="https://github.com/user-attachments/assets/ba9258ac-e338-4b76-b05a-7d6c609db070" />
+
+<img width="541" height="570" alt="image" src="https://github.com/user-attachments/assets/6809a5a7-0b29-4a27-8993-5cd41e326ce6" />
+
+<img width="1366" height="746" alt="image" src="https://github.com/user-attachments/assets/d98e745f-e8da-47cb-9bae-cee81adb9bfa" />
+
+<img width="1366" height="746" alt="image" src="https://github.com/user-attachments/assets/2fad6a44-7f2a-4167-b731-12a2a4c0f40f" />
+
+<img width="1366" height="746" alt="image" src="https://github.com/user-attachments/assets/d5a951f0-7431-4f3e-b753-0626bd7e1565" />
+
+<img width="1366" height="746" alt="image" src="https://github.com/user-attachments/assets/9d5cc92e-4f5f-46d0-96e0-b8f9de1ba668" />
+
+<img width="1366" height="746" alt="image" src="https://github.com/user-attachments/assets/ac767812-0a4a-4ffc-b088-701f6417db6c" />
+
+
+
+
+
+
+
